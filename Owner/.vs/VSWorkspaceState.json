@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Http",
+    "\\app\\Http\\Controllers",
+    "\\app\\Http\\Middleware",
+    "\\config",
+    "\\public",
+    "\\resources",
+    "\\resources\\views",
+    "\\resources\\views\\layouts",
+    "\\storage\\framework"
+  ],
+  "SelectedNode": "\\app\\Http\\Kernel.php",
+  "PreviewInSolutionExplorer": false
+}
